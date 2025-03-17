@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <name>egitdemo</name>
   <url>http://maven.apache.org</url>
-  <this is a pratice class>
+  <this is a pratice session>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
